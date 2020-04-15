@@ -1,5 +1,5 @@
 # PyGravityMeasurement
-##beste manier om zwaartekracht te berekenen!##
+## beste manier om zwaartekracht te berekenen! ##
 
 Dependencies:
   cv2 (pip install cv2)
