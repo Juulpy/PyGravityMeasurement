@@ -1,5 +1,5 @@
 # PyGravityMeasurement
-## beste manier om gravitieconstante te berekenen! ##
+## beste manier om gravitatieconstante te berekenen! ##
 
 Dependencies:
   * cv2 (pip install cv2)
